@@ -4,5 +4,5 @@ Project for analyzing lyrics for a given song using Genius's API, Requests, and 
 Currently counts number of word occurances.
 
 # Dependencies
-BeautifulSoup as bs4  
-requests
+* bs4 (BeautifulSoup)
+* requests
